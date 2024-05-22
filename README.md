@@ -34,7 +34,7 @@
 
 <hr>
 
-[![Nuwani's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nuwani-sithara&theme=tokyonight)](https://git.io/praveenscience)
+<h3 align="center">Nuwani's GitHub Activity Graph</h3>
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=nuwani-sithara&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuwani-sithara&theme=tokyonight) |
 | --- | --- |
