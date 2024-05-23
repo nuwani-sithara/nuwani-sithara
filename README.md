@@ -43,7 +43,20 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuwani-sithara&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nuwani-sithara&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
 
+
+<br>
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=nuwani-sithara&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
+<br>
 
 
 
