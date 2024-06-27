@@ -1,8 +1,10 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
-</p>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Nuwani+%F0%9F%91%8B;Software+Engineering+Student;Back-End+Developer;Mobile+Application+Developer;Problem+Solver;Content+Creator" alt="Headline" />
+    </div>
 
-<h1 align="center">Hi 👋, I'm Nuwani Sithara</h1>
 <h3 align="center">🌟A passionate IT student | Building projects and learning new technologies!! 💻🚀</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nuwani-sithara&label=Profile%20views&color=0e75b6&style=flat" alt="nuwani-sithara" /> </p>
