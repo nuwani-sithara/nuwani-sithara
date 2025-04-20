@@ -8,18 +8,7 @@
 
 <h3 align="center">🚀 Passionate IT student | Building innovative projects | Continuous learner</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=nuwani-sithara&label=Profile+Views&color=7E3ACE&style=flat" alt="nuwani-sithara" /> 
-  <a href="https://wakatime.com/@nuwani-sithara" target="_blank">
-    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Total coding time" />
-  </a>
-</p>
 
-<div align="center">
-  <a href="https://app.daily.dev/nuwani" target="_blank">
-    <img src="https://api.daily.dev/devcards/your-dev-card-id.png?r=bs1" width="256" alt="Nuwani's Dev Card"/>
-  </a>
-</div>
 
 ## 🧑‍💻 About Me
 
