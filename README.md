@@ -12,7 +12,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Undergraduate at SLIIT (IT22099518)
 - 🌱 Currently mastering **MERN Stack & Cloud Technologies**
 - 💡 Passionate about **Backend Development & System Design**
 - 📝 Regularly write tech articles on [Medium](your-medium-link)
@@ -59,45 +58,3 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![Nuwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuwani-sithara&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuwani-sithara&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuwani-sithara&theme=radical&hide_border=true&layout=compact)
-  
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=nuwani-sithara&theme=onedark&no-frame=true&row=2&column=4)
-  
-</div>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/nuwanisith34899" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/nuwani-sithara-498813301" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://fb.com/nuwzzz" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/nuwani_sithara" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:nuwanisithara.com@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-</p>
