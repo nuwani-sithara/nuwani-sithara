@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=50&lines=Hey+there%2C+I'm+Nuwani+%F0%9F%91%8B;Software+Engineering+Student;Full-Stack+Developer;Mobile+App+Developer;Problem+Solver;Tech+Enthusiast" alt="Headline" />
 </div>
 
-<h3 align="center">🚀 Passionate IT student | Building innovative projects | Continuous learner</h3>
+<h3 align="center">🚀 Passionate SE student | Building innovative projects | Continuous learner</h3>
 
 
 
