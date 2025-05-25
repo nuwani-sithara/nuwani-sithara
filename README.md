@@ -12,10 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently mastering **MERN Stack & Cloud Technologies**
-- 💡 Passionate about **Backend Development & System Design**
-- 📝 Regularly write tech articles on [Medium](your-medium-link)
-- ✨ Fun fact: **I'm called NUWA by friends!**
+I am a dedicated and detail-oriented Software Engineering undergraduate at SLIIT with hands-on experience in full-stack web and mobile application development. Proficient in technologies such as Java, React, Node.js, MongoDB, and Kotlin, I have contributed to several real-world projects including finance trackers, daycare management apps, and cab service systems. I’m passionate about building scalable solutions, continuously enhancing my skills, and contributing to innovative software initiatives. Open to new opportunities and collaborations in the tech industry.
 
 ## 🛠 Tech Stack
 
