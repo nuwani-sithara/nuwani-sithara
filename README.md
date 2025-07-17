@@ -72,7 +72,7 @@ I'm a dedicated Software Engineering undergraduate at SLIIT with hands-on experi
 
 ## 💖 Support My Work
 <p align="center">
-  <a href="https://www.buymeacoffee.com/nuwaa">
+  <a href="https://buymeacoffee.com/nuwani">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nuwaa" />
   </a>
 </p>
