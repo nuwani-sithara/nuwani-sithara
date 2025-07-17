@@ -67,3 +67,16 @@ I'm a dedicated Software Engineering undergraduate at SLIIT with hands-on experi
   </a>
   <a href="https://discord.gg/8NrUcnkk" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8NrUcnkk" height="30" width="40" />
+  </a>
+</p>
+
+## 💖 Support My Work
+<p align="center">
+  <a href="https://www.buymeacoffee.com/nuwaa">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nuwaa" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nuwani-sithara&label=Profile%20views&color=7E3ACE&style=flat" alt="nuwani-sithara" /> 
+</div>
