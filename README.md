@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat" height="200">
+  <img src="https://github.com/nuwani-sithara/nuwani-sithara/blob/main/eye-vector-1.png" alt="Eye Logo" height="200">
 </div>
 
 <div align="center">
