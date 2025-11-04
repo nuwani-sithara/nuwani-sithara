@@ -16,7 +16,7 @@ I'm a dedicated Software Engineering undergraduate at SLIIT with hands-on experi
 - 🌱 Learning: **Golang, Advanced System Design**
 - 👯 Looking to collaborate on: **Open-source projects**
 - 💬 Ask me about: **Web development, Mobile apps, or Tech in general**
-- 📫 How to reach me: **nuwanisithara.com@gmail.com**
+- 📫 How to reach me: **nsitharahemapriya@gmail.com**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 ## 🛠️ Tech Stack
