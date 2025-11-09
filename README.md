@@ -61,6 +61,9 @@ I'm a dedicated Software Engineering undergraduate at SLIIT with hands-on experi
 
 ## 📫 Let's Connect
 <p align="center">
+  <a href="https://nuwanisithara.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_LOGO_BASE64_HERE&logoColor=white" alt="Portfolio" height="30" />
+  </a>
   <a href="https://linkedin.com/in/nuwani-sithara" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwani-sithara" height="30" width="40" />
   </a>
