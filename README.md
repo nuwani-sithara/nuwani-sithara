@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nuwani-sithara/nuwani-sithara/blob/main/eye-vector-removebg.png" alt="Eye Logo2" height="200">
+  <img src="https://github.com/nuwani-sithara/nuwani-sithara/blob/main/back.png" alt="Eye Logo2" height="200">
 </div>
 
 <div align="center">
