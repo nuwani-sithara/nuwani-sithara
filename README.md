@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/nuwani-sithara/nuwani-sithara/blob/main/back.png" alt="Eye Logo2" height="200">
+  <img src="https://github.com/nuwani-sithara/nuwani-sithara/blob/main/back.png" 
+       alt="Eye Logo2" 
+       style="width: 100%; height: auto; display: block;">
 </div>
 
 <div align="center">
